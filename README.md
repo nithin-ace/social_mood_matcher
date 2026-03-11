@@ -1,4 +1,4 @@
-Social Mood Matcher
+#Social Mood Matcher
 
 AI Caption & Hashtag Generator for Social Media
 
